@@ -87,6 +87,10 @@ body {
     line-height: 50px;
 }
 
+.home .redes-sociais a i.devicon-twitter-original:hover {
+    transform: scale(1.1);
+}
+
 .home .redes-sociais a i {
 	border: 1px solid #fff;
 	border-radius: 50%;
