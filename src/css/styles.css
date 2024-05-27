@@ -214,10 +214,12 @@ body {
 footer {
 	height: 60px;
 	color: rgba(255, 255, 255, 0.418);
+	text-align: center;
 }
 
-footer p {
-	text-align: center;
+footer a:hover{
+	color: #000;
+	transition: 0.3s;
 }
 
 @keyframes gradient-animation {
